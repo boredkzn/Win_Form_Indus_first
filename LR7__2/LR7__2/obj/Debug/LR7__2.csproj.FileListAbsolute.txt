@@ -1,0 +1,13 @@
+C:\Users\79196\source\repos\LR7__2\LR7__2\bin\Debug\LR7__2.exe.config
+C:\Users\79196\source\repos\LR7__2\LR7__2\bin\Debug\LR7__2.exe
+C:\Users\79196\source\repos\LR7__2\LR7__2\bin\Debug\LR7__2.pdb
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.csprojAssemblyReference.cache
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.Form1.resources
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.Properties.Resources.resources
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.csproj.GenerateResource.cache
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.csproj.CoreCompileInputs.cache
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.exe
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.pdb
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.Form2.resources
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.Form3.resources
+C:\Users\79196\source\repos\LR7__2\LR7__2\obj\Debug\LR7__2.Form4.resources
